@@ -1,0 +1,23 @@
+.body{
+    
+    padding: 5px 300px;
+    box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 
+    0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+    font-family: "Roboto", "Segoe UI", BlinkMacSystemFont, system-ui, -apple-system;
+    font-size: 19px;
+    text-align: center;
+}
+.underline{
+    text-decoration: underline;
+}
+.button{
+    margin: 20px auto;
+}
+.padding{
+    margin: 10px 0;
+}
+.input-field{
+    width: 40%;
+    padding: 15px
+    
+}
